@@ -1,0 +1,7 @@
+{
+  "name": "SocietyManagement",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
